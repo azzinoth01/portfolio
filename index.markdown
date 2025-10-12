@@ -4,6 +4,7 @@ title: My Portfolio
 background: /assets/Background.png
 overlay: dark
 fontColor: "#FFFFFF"
+permalink: /index
 ---
 <section id="aboutMe" markdown="1">
 ## About Me 

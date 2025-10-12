@@ -11,6 +11,7 @@ galleryImages:
 background: /assets/SolarAscension/Background.png
 overlay: light
 fontColor: "#E0B800"
+permalink: /SolarAscension
 ---
 <section id="Solar Ascension" markdown="1">
 ![Solar Ascension]({{ '/assets/SolarAscension/Name.png' | relative_url }})
