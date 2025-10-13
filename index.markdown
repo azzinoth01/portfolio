@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Portfolio
+title: index
 background: /assets/Background.png
 overlay: dark
 fontColor: "#FFFFFF"
