@@ -4,7 +4,7 @@ title: index
 background: /assets/Background.png
 overlay: dark
 fontColor: "#FFFFFF"
-permalink: /index
+
 ---
 <section id="aboutMe" markdown="1">
 ## About Me 
