@@ -22,6 +22,8 @@ Driven by curiosity and a commitment to quality, I approach every project as an 
 creativity with engineering. Whether working solo or as part of a team, my goal is always the same: to build games that are fun to 
 play, satisfying to interact with, and technically solid under the hood.
 
+**Contact: markusdullnig@hotmail.com**
+
 </section>
 ---
 
