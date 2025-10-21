@@ -46,6 +46,7 @@ differently with tower defenses, adding tactical depth and requiring balanced de
 
 #### [Itch.io page](https://masokuu-games.itch.io/tower-attack)
 
+#### [Game download](https://drive.google.com/file/d/1ldz82xs4ol8YeDsqeW8N4BqDjvpK52bW/view?usp=sharing)
 
 
 </section>

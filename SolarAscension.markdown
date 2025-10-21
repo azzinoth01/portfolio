@@ -73,7 +73,7 @@ strong system design, modularity, and maintainability.
 #### [Itch.io page](https://games-academy.itch.io/solar-ascension)
 
 
-#### [Game download](https://drive.google.com/file/d/1CdOvpR_IbEa4QuZ3O_h1xrFJ8u3_YLnx/view?usp=share_link )
+#### [Game download](https://drive.google.com/file/d/1Pled8Zi6ke4Y6DT985q5lVFWpeyHYpXm/view?usp=sharing)
 
 
 </section>

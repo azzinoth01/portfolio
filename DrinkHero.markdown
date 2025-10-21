@@ -83,7 +83,8 @@ create reusable visual effect pipelines adaptable to different gameplay scenario
 
 #### [Itch.io page](https://games-academy.itch.io/drink-hero)
 
-#### [Game download Android](https://drive.google.com/file/d/1NvcEH3JYOCcK6d8zQ0Dw2DeM_t3bwB3A/view)
-#### [Game download Windows](https://drive.google.com/file/d/1buvoQNqAy3kbYUfeDCP5uRqgVdHuo2tk/view)
+#### [Game download Windows](https://drive.google.com/file/d/1BMh9E1tRVwq1jK39ML10stXOIQqorUrF/view?usp=sharing)
+#### [Game download Android](https://drive.google.com/file/d/12G5rFJaouoSVe3aX47TLbhh5yhmCPvpp/view?usp=drive_link)
+
 
 </section>

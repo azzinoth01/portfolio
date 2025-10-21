@@ -49,8 +49,7 @@ Platforms provide rest points and navigation challenges, while obstacle timing a
 
 #### [Game jam site](https://globalgamejam.org/games/2025/tower-bubble-6)
 
-
-#### [Game download](https://ggjv4.s3.us-west-1.amazonaws.com/files/games/2025/60556/exec/TowerOfBubble.zip?VersionId=GyD2QRuTN7JitHn65uPWjq6i0t2BtJkZ)
+#### [Game download](https://drive.google.com/file/d/1lTzc3_H8TShk-jnb31SuebNrZYMyuhok/view?usp=sharing)
 
 
 </section>

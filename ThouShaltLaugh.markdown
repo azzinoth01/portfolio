@@ -43,7 +43,7 @@ feedback throughout the battle flow.
 #### [Itch.io page](https://nevermei.itch.io/thou-shalt-laugh)
 
 
-#### [Game download](https://ggjv4.s3.us-west-1.amazonaws.com/files/games/2024/790862/exec/Thou%20shallt%20laugh!_2.zip?VersionId=BxoATZdSJiXnY9bZJOkzflJcPdyhFCv0)
+#### [Game download](https://drive.google.com/file/d/14TV7vztsjc4HsfM4tCDDibwNB9NDQOiQ/view?usp=drive_link)
 
 
 </section>

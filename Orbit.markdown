@@ -76,8 +76,7 @@ bindings for both keyboard and controller, improving accessibility and user expe
 
 #### [Itch.io page](https://cresscentmoon.itch.io/orbit)
 
-
-#### [Game download](https://drive.google.com/file/d/17HIlg10uzzHRdO0c3ZDW4GIJSou0-p4B/view)
+#### [Game download](https://drive.google.com/file/d/1fwsPyhNUkhbptqCU8Q1h1Yrkw58HZldE/view?usp=sharing)
 
 
 </section>
