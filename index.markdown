@@ -60,6 +60,7 @@ play, satisfying to interact with, and technically solid under the hood.
 - Network system
 - Combat system
 - Shader
+- Cross-Platform Development (PC & Mobile)
 {% endcapture %}
 
 <div class="projectGrid">

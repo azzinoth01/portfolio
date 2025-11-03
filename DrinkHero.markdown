@@ -80,6 +80,14 @@ manipulating material properties with noise textures, alpha thresholds, and exte
 This demonstrates strong knowledge of shader programming, real-time rendering techniques, and the ability to 
 create reusable visual effect pipelines adaptable to different gameplay scenarios.
 
+### Cross-Platform Development (PC & Mobile)
+
+Optimized the project for deployment on both PC and Android platforms. Implemented input handling for keyboard, 
+mouse, and touch controls, while ensuring responsive UI layouts and smooth gameplay across different screen sizes 
+and hardware configurations. Applied performance profiling, memory management, and platform-specific optimizations to 
+maintain high-quality gameplay on all supported devices, demonstrating expertise in cross-platform development and 
+scalable system design.
+
 
 #### [Itch.io page](https://games-academy.itch.io/drink-hero)
 
