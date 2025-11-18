@@ -13,6 +13,7 @@ and with four years of profesional experience as a software developer with focus
 and server is looking for a new role as a unity developer.
 
 **Github: https://github.com/azzinoth01**
+
 **Contact: markusdullnig@hotmail.com**
 
 </section>
