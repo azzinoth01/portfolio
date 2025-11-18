@@ -12,7 +12,7 @@ Unity developer with two years of profesional experience with focus on gameplay 
 and with four years of profesional experience as a software developer with focus on databases 
 and server is looking for a new role as a unity developer.
 
-**Github: https://github.com/azzinoth01**
+**Github: [https://github.com/azzinoth01](https://github.com/azzinoth01)**
 
 **Contact: markusdullnig@hotmail.com**
 
