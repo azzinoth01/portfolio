@@ -8,20 +8,11 @@ fontColor: "#FFFFFF"
 ---
 <section id="aboutMe" markdown="1">
 ## About Me 
-I’m a results-driven game programmer with a strong background in software development and a deep passion 
-for creating engaging, responsive, and technically refined gameplay experiences. Starting my career in customization 
-programming taught me how to design robust, adaptable systems and write clean, scalable code. Building on that foundation, 
-I transitioned into game development, where I specialize in turning creative ideas into interactive, polished, and 
-performance-optimized experiences.
+Unity developer with two years of profesional experience with focus on gameplay programming 
+and with four years of profesional experience as a software developer with focus on databases 
+and server is looking for a new role as a unity developer.
 
-My focus lies in gameplay systems, player movement, AI, and technical design ensuring that every feature not only 
-functions efficiently but also feels intuitive and rewarding to play. I thrive on solving complex technical challenges, 
-from developing dynamic pathfinding and economy systems to fine-tuning physics and input handling for precision control.
-
-Driven by curiosity and a commitment to quality, I approach every project as an opportunity to blend 
-creativity with engineering. Whether working solo or as part of a team, my goal is always the same: to build games that are fun to 
-play, satisfying to interact with, and technically solid under the hood.
-
+**Github: https://github.com/azzinoth01**
 **Contact: markusdullnig@hotmail.com**
 
 </section>
