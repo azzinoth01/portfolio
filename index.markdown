@@ -23,6 +23,7 @@ and server is looking for a new role as a unity developer.
 ## Game Projects
 
 {% capture solarAscensionBullets %}
+- developed with Unity
 - Pathfinding in 3D space
 - Economy system
 - Drone movement
@@ -30,6 +31,7 @@ and server is looking for a new role as a unity developer.
 {% endcapture %}
 
 {% capture deathstringNightfallBullets %}
+- developed with Unreal Engine 5.1
 - Modular pathing system
 - Projectile system
 - Online high score
@@ -38,6 +40,7 @@ and server is looking for a new role as a unity developer.
 {% endcapture %}
 
 {% capture orbitBullets %}
+- developed with Unity
 - Bullet skill system
 - Enemy AI
 - Object pooling
@@ -46,6 +49,7 @@ and server is looking for a new role as a unity developer.
 {% endcapture %}
 
 {% capture drinkHeroBullets %}
+- developed with Unity
 - Server and database management
 - Server application
 - Network system
@@ -88,6 +92,7 @@ and server is looking for a new role as a unity developer.
 ## Game Jam Projects
 
 {% capture towerOfBubbleBullets  %}
+- developed with Unity
 - Physics
 - Input handeling
 - Player movement
@@ -95,12 +100,14 @@ and server is looking for a new role as a unity developer.
 {% endcapture %}
 
 {% capture towerAttackBullets %}
+- developed with Unity
 - Unit pathing
 - Tower types
 - Unit types
 {% endcapture %}
 
 {% capture thouShallLaughBullets %}
+- developed with Unity
 - Turn based battle system
 - Card system
 - Sequencing
