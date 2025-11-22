@@ -15,8 +15,8 @@ fontColor: "#E0B800"
 ![Orbit]({{ '/assets/Orbit/Name.png' | relative_url }})
 
 ### Engine: Unity Engine
-### Teamsize: 6
-### Timeframe: 6 weeks
+### Teamgröße: 6
+### Zeitrahmen: 6 Wochen
 
 <div class="videoContainer">
 	<iframe 
@@ -41,40 +41,44 @@ fontColor: "#E0B800"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-#### Bullet skill system
+#### Skillsystem
 
-Designed a modular bullet skill system where skills are defined as prefabs containing configurable bullet sequences. 
-Each skill specifies bullet prefabs, spawn rotations, and flight paths, which can be rotated and combined to create 
-diverse attack patterns. This system supports both player weapons and enemy skill sequencing, demonstrating flexibility 
-and reusability in gameplay design.
+Ein modulares Bullet-Skill-System entworfen, bei dem Skills als Prefabs definiert sind, die konfigurierbare 
+Projektilsequenzen enthalten. Jeder Skill legt fest, welche Bullet-Prefabs,Spawn-Rotationen und Flugbahnen die 
+Projektile haben. Diese können rotiert und kombiniert werden, um vielfältige Angriffsmuster zu erzeugen. 
+Das System unterstützt sowohl Spielerwaffen als auch die Skill-Abfolgen von Gegnern und demonstriert hohe 
+Flexibilität und Wiederverwendbarkeit im Gameplay-Design.
 
-#### Enemy AI
+#### Gegner KI
 
-Implemented lightweight but flexible enemy AI with multiple behavior modes: node-based pathing, axis-aligned movement 
-toward the player, and directional turning. Paths are defined as sequences of nodes, and enemies can either loop or stop 
-after completing a path. This modular AI structure allows easy customization of enemy movement patterns and complexity.
+Eine flexible Gegner-KI implementiert, die mehrere Verhaltensmodi unterstützt: knotenbasiertes Pathfinding, 
+achsenbasierte Bewegung in Richtung des Spielers und Drehen zum Spieler. Pfade werden als Sequenzen von Knoten definiert, 
+und Gegner können nach Abschluss eines Pfads entweder stoppen oder ihn in einer Schleife wiederholen. Diese modulare 
+KI-Struktur ermöglicht eine einfache Anpassung von Bewegungsmustern.
 
 #### Object pooling
 
-Optimized bullet-heavy gameplay with a custom object pooling system to minimize expensive spawn and despawn operations. 
-Inactive bullets are stored in a pool, reset, and reused when needed. New bullets are instantiated only if the pool 
-is empty, and periodic cleanup prevents excessive memory use. This system significantly reduces runtime overhead in a 
-bullet-hell environment.
+Bullet-intensives Gameplay durch ein Object-Pooling-System optimiert, um teure Spawn- und 
+Despawn-Operationen zu minimieren. Inaktive Projektile werden in einem Pool gespeichert, zurückgesetzt und 
+bei Bedarf wiederverwendet. Neue Projektile werden nur dann instanziiert, wenn der Pool leer ist, und eine 
+regelmäßige Bereinigung verhindert übermäßige Speichernutzung. Dieses System reduziert die Laufzeitkosten 
+in einer Bullet-Hell-Umgebung erheblich.
 
-#### Shipeditor
+#### Raumschiff Editor
 
-Developed an in-game shipeditor that doubles as a shop, enabling players to purchase, equip, and customize weapons 
-to match their playstyle. Equipped loadouts are saved, ensuring continuity between sessions without 
-repeated menu setup.
+Einen In-Game-Editor entwickelt, der zugleich als Shop dient und es den Spielern ermöglicht, 
+Waffen zu kaufen und auszurüsten. Ausgerüstete Loadouts werden gespeichert, sodass die Einstellungen 
+zwischen den Spielsessions erhalten bleiben und nicht erneut im Menü vorgenommen werden müssen.
 
-#### Control remapping
+#### Steuerung anpassen
 
-Integrated Unity’s new Input System to enable flexible control remapping. Players can easily redefine input 
-bindings for both keyboard and controller, improving accessibility and user experience.
+Das neue Input System von Unity integriert, um eine flexible Neubelegung der Steuerung zu ermöglichen. 
+Spieler können Eingaben für Tastatur und Controller ganz einfach neu definieren, was die Barrierefreiheit 
+und das Nutzererlebnis verbessert.
 
-#### [Itch.io page](https://cresscentmoon.itch.io/orbit)
+#### [Itch.io Seite](https://cresscentmoon.itch.io/orbit)
 
 #### [Game download](https://drive.google.com/file/d/1fwsPyhNUkhbptqCU8Q1h1Yrkw58HZldE/view?usp=sharing)
 

@@ -16,8 +16,8 @@ fontColor: "#E0B800"
 ![Solar Ascension]({{ '/assets/SolarAscension/Name.png' | relative_url }})
 
 ### Engine: Unity Engine
-### Teamsize: 14
-### Timeframe: 8 weeks
+### Teamgröße: 14
+### Zeitrahmen: 8 Wochen
 
 <div class="videoContainer">
 	<iframe 
@@ -40,38 +40,39 @@ fontColor: "#E0B800"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Pathfinding in 3D space
+### Pfadfindung im 3D Raum
 
-Implemented a custom 3D pathfinding system using the A* algorithm. The solution incorporates collision avoidance, 
-adaptive speed scaling based on spatial density, and deadlock resolution logic through automated self-destruction 
-events. This demonstrates expertise in algorithm design, optimization, and robust fail-safe mechanisms for autonomous 
-agents.
+„Ein 3D-Pathfinding-System unter Verwendung des A-Algorithmus implementiert. 
+Das System besitzt Kollisionsvermeidung, adaptive Geschwindigkeitsanpassung basierend auf der Anzahl der Gebäude
+in der Umgebung sowie eine Deadlock-Auflösung durch automatisierte Selbstzerstörung. 
 
-### Economy system 
+### Wirtschaftssystem
 
-Designed and developed a resource-driven economy framework that dynamically manages and distributes resources across 
-interconnected systems. Leveraged scriptable objects for building definitions, enabling modular expansion and streamlined 
-data-driven workflows. The system supports multiple building archetypes (production, logistics, storage, housing) and 
-ensures balanced gameplay through centralized distribution logic.
+Ein ressourcenbasiertes Wirtschaftssystem entworfen und entwickelt, das Ressourcen dynamisch über miteinander 
+verbundene Systeme hinweg verwaltet und verteilt. Scriptable Objects für Gebäude-Definitionen genutzt, um 
+modulare Erweiterbarkeit und effiziente, datengetriebene Workflows zu ermöglichen. Das System unterstützt 
+mehrere Gebäude-Archetypen wie Produktion, Logistik, Lager und Wohnen.
 
-### Drone movement
+### Drohnen Bewegung
 
-Developed a node-based queueing system to coordinate drone movement in 3D space. Drones dynamically queue for nodes, 
-wait until they are available, and then advance to the next target, ensuring collision-free navigation without relying 
-on physics simulation. The system adapts movement speed based on spatial context (slower in dense areas, faster in 
-open space) and integrates event-driven logic to maintain efficient traffic flow and prevent deadlocks in real time.
+Ein knotenbasiertes Warteschlangensystem entwickelt, um die Drohnenbewegung im 3D-Raum zu koordinieren. 
+Drohnen reihen sich dynamisch an Knoten ein, warten, bis diese verfügbar sind, und bewegen sich anschließend 
+zum nächsten Ziel weiter, was eine kollisionsfreie Navigation ohne physikbasierte Simulation ermöglicht. Das 
+System passt die Bewegungsgeschwindigkeit an den räumlichen Kontext an (langsamer in dicht bebauten Bereichen, 
+schneller in offenem Raum) und integriert ereignisgesteuerte Logik, um einen effizienten Verkehrsfluss 
+sicherzustellen und Deadlocks in Echtzeit zu verhindern.
 
-### Modular building system
+### Modulares Bausystem
 
-Implemented a scalable architecture for buildings using scriptable objects, allowing for extensibility without 
-codebase rewrites. Each building type integrates seamlessly with the economy and pathfinding systems, showcasing 
-strong system design, modularity, and maintainability.
+Eine skalierbare Architektur für Gebäude mithilfe von Scriptable Objects implementiert, 
+die Erweiterbarkeit ohne Änderungen am Code ermöglicht. Jeder Gebäudetyp integriert 
+sich nahtlos in das Wirtschafts- und Pathfinding-System und ermöglicht Modularität und 
+Wartungsfreundlichkeit.
 
 
-#### [Itch.io page](https://games-academy.itch.io/solar-ascension)
-
+#### [Itch.io Seite](https://games-academy.itch.io/solar-ascension)
 
 #### [Game download](https://drive.google.com/file/d/1Pled8Zi6ke4Y6DT985q5lVFWpeyHYpXm/view?usp=sharing)
 

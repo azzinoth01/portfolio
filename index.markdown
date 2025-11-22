@@ -8,9 +8,9 @@ fontColor: "#FFFFFF"
 ---
 <section id="aboutMe" markdown="1">
 ## About Me 
-Unity developer with two years of profesional experience with focus on gameplay programming 
-and with four years of profesional experience as a software developer with focus on databases 
-and server is looking for a new role as a unity developer.
+Unity Entwickler mit zwei Jahren Berufserfahrung mit Schwerpunkt auf Gameplay Programmierung und 
+vier Jahren Berufserfahrung als Software Entwickler mit Schwerpunk auf Datenbanken und 
+Serververwaltung sucht neue Stelle als Unity Entwickler.
 
 **Github: [https://github.com/azzinoth01](https://github.com/azzinoth01)**
 
@@ -21,42 +21,42 @@ and server is looking for a new role as a unity developer.
 
 <section id="gameProjects" markdown="1">
 
-## Game Projects
+## Game Projekte
 
 {% capture solarAscensionBullets %}
-- developed with Unity
-- Pathfinding in 3D space
-- Economy system
-- Drone movement
-- Modular building System
+- Entwickelt mit Unity
+- Pfadfindung im 3D Raum
+- Wirtschaftssystem
+- Drohnen Bewegung
+- Modulares Bausystem
 {% endcapture %}
 
 {% capture deathstringNightfallBullets %}
-- developed with Unreal Engine 5.1
-- Modular pathing system
-- Projectile system
-- Online high score
-- Input system
-- Day and night cycle
+- Entwickelt mit Unreal Engine 5.1
+- Modulares Pfadsystem
+- Projektilsystem
+- Online Highscore Liste
+- Eingabesystem
+- Tag und Nacht Zyklus
 {% endcapture %}
 
 {% capture orbitBullets %}
-- developed with Unity
-- Bullet skill system
-- Enemy AI
+- Entwickelt mit Unity
+- Skillsystem
+- Gegner KI
 - Object pooling
-- Shipeditor
-- Control remapping
+- Raumschiff Editor
+- Steuerung anpassen
 {% endcapture %}
 
 {% capture drinkHeroBullets %}
-- developed with Unity
-- Server and database management
-- Server application
-- Network system
-- Combat system
+- Entwickelt mit Unity
+- Server und Datenbank Verwaltung
+- Serveranwendung
+- Netzwerksystem
+- Kampfsystem
 - Shader
-- Cross-Platform Development (PC & Mobile)
+- Cross-Platform Entwicklung (PC & Mobile)
 {% endcapture %}
 
 <div class="projectGrid">
@@ -90,28 +90,27 @@ and server is looking for a new role as a unity developer.
 
 <section id="gameJamProjects" markdown="1">
 
-## Game Jam Projects
+## Game Jam Projekte
 
 {% capture towerOfBubbleBullets  %}
-- developed with Unity
-- Physics
-- Input handeling
-- Player movement
-- Obstacles and platforms
+- Entwickelt mit Unity
+- Physik
+- Eingabesystem
+- Spieler Bewegung
+- Hindernisse und Plattformen
 {% endcapture %}
 
 {% capture towerAttackBullets %}
-- developed with Unity
-- Unit pathing
-- Tower types
-- Unit types
+- Entwickelt mit Unity
+- Einheitenpfadfindung
+- Turmtypen
+- Einheitentypen
 {% endcapture %}
 
 {% capture thouShallLaughBullets %}
-- developed with Unity
-- Turn based battle system
-- Card system
-- Sequencing
+- Entwickelt mit Unity
+- Rundenbasiertes Kampfsystem
+- Kartensystem
 {% endcapture %}
 
 <div class="projectGrid">

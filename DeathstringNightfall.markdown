@@ -13,12 +13,12 @@ background: /assets/DeathstringNightfall/Background.png
 overlay: light
 fontColor: "#FFFFFF"
 ---
-<section id="Solar DeathstringNightfall" markdown="1">
+<section id="DeathstringNightfall" markdown="1">
 ![Deathstring Nightfall]({{ '/assets/DeathstringNightfall/Name.png' | relative_url }})
 
 ### Engine: Unreal Engine 5
-### Teamsize: 11
-### Timeframe: 8 weeks
+### Teamgröße: 11
+### Zeitrahmen: 8 Wochen
 
 <div class="videoContainer">
 	<iframe 
@@ -42,41 +42,43 @@ fontColor: "#FFFFFF"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Modular pathing system
+### Modulares Pfadsystem
 
-Implemented a spline-based pathing system for enemy movement. Instead of predefining every possible route, 
-I designed a runtime system that combines room-to-room splines into complete paths. This approach reduces 
-manual setup, scales efficiently with level complexity, and dynamically adapts to player-driven pathing choices.
+Ich habe ein splinebasiertes Pfadsystem für die Gegnerbewegung implementiert. Anstatt 
+jede mögliche Route vorher manuell festzulegen, habe ich ein Laufzeitsystem entworfen, 
+das Raum-zu-Raum-Splines zu vollständigen Pfaden kombiniert. Dieser Ansatz reduziert den 
+manuellen Aufwand, skaliert effizient mit der Levelkomplexität und passt sich dynamisch an 
+vom Spieler beeinflusste Wegentscheidungen an.
 
-### Projectile system
+### Projektilsystem
 
-Developed a modular projectile framework supporting multiple bullet types and special effects. Implemented 
-projectiles with chain targeting, slowing effects, damage-over-time (burn), and area-of-effect damage. 
-The system was designed for easy extension, enabling rapid prototyping of new mechanics while maintaining 
-consistent behavior across towers, players, and enemies.
+Ein modulares Projektil-Framework entwickelt, das mehrere Projektiltypen und Spezialeffekte unterstützt. 
+Implementierte Projektile mit Kettenzielerfassung, Verlangsamungseffekten, Schaden-über-Zeit (Burn) und 
+Flächenschaden. Das System wurde für einfache Erweiterbarkeit ausgelegt und ermöglicht schnelles Prototyping 
+neuer Mechaniken, während es zugleich ein konsistentes Verhalten über Türme, Spieler und Gegner hinweg sicherstellt.
 
-### Online high score
+### Online Highscore Liste
 
-Created an online leaderboard that records player performance metrics (score, kills, survival time, wave count). 
-Designed a submission and retrieval system to track top players, enhancing replay value and adding competitive 
-motivation through persistent, server-side data.
+Eine Online Highscore Liste erstellt, die Leistungsmetriken der Spieler erfasst (Punkte, Kills, Überlebenszeit, Wellenanzahl). 
+Ein Übermittlungs- und Abrufsystem entwickelt, um Top-Spieler nachzuverfolgen, den Wiederspielwert zu erhöhen und durch 
+persistente, serverseitige Daten zusätzliche Wettbewerbsmotivation zu schaffen.
 
-### Input system
+### Eingabesystem
 
-Integrated full gamepad support using Unreal Engine 5’s Enhanced Input System. Configured input actions to 
-support both keyboard and gamepad seamlessly, ensuring accessibility, flexibility, and scalable input management 
-for different control schemes.
+Vollständige Gamepad-Unterstützung mithilfe des Enhanced Input Systems von Unreal Engine 5 integriert. Eingabeaktionen so konfiguriert, 
+dass sowohl Tastatur als auch Gamepad nahtlos unterstützt werden, um Zugänglichkeit, Flexibilität und skalierbares Eingabemanagement 
+für verschiedene Steuerungsarten sicherzustellen.
 
-### Day and night cycle
+### Tag und Nacht Zyklus
 
-Implemented a fully functional day and night cycle with lighting transitions and phase dependent gameplay rules. 
-For example, nighttime restricts door access, adding strategic depth. The system demonstrates proficiency in 
-real-time state management, event-driven design, and visual gameplay integration.
+Einen vollständig funktionalen Tag-Nacht-Zyklus mit Lichtübergängen und phasenabhängigen Gameplay-Regeln implementiert. Beispielsweise 
+ist der Zugang zu Türen bei Nacht eingeschränkt, was zusätzliche strategische Tiefe schafft. Das System demonstriert Kompetenz in 
+Echtzeit-Zustandsverwaltung, ereignisgesteuertem Design und der visuellen Integration ins Gameplay.
 
 
-#### [Itch.io page](https://games-academy.itch.io/deathstring-nightfall)
+#### [Itch.io Seite](https://games-academy.itch.io/deathstring-nightfall)
 
 
 #### [Game download](https://drive.google.com/file/d/1BF7azcNzVjOwn7JlnboUvCVujP-SeEJ9/view)

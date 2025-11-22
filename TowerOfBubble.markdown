@@ -15,8 +15,8 @@ fontColor: "#FFFFFF"
 ![Tower of Bubble]({{ '/assets/TowerOfBubbles/Name.png' | relative_url }})
 
 ### Engine: Unity Engine
-### Teamsize: 8
-### Timeframe: 48 Hours
+### Teamgröße: 8
+### Zeitrahmen: 48 Stunden
 
 
 {% include gallery.html 
@@ -24,30 +24,33 @@ fontColor: "#FFFFFF"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Physics
+### Physik
 
-Built a custom physics system that calculates reactive propulsion forces when shooting bubbles. Carefully balanced force application, 
-drag, and gravity to achieve smooth, controllable, and believable underwater motion.
+Ein Physiksystem entwickelt, das reaktive Antriebskräfte beim Abschießen von Blasen berechnet. 
+Die Anwendung von Kraft, Widerstand und Gravitation wurden angepasst, um eine flüssige, kontrollierbare 
+und glaubwürdige Unterwasserbewegung zu ermöglichen.
 
-### Input handeling
+### Eingabesystem
 
-Implemented responsive input controls that allow precise aiming and shooting in any direction. Inputs directly influence 
-propulsion force vectors, enabling intuitive and skill-based movement.
+Eingabesteuerungen implementiert, die präzises Zielen und Schießen in jede Richtung ermöglichen. 
+Die Eingaben beeinflussen direkt die Antriebs-Kraftvektoren und erlauben eine intuitive, skill-basierte Bewegung.
 
-### Player movement
+### Spieler Bewegung
 
-Designed a unique propulsion-only movement system with no traditional jumping or climbing. The shrimp’s trajectory and 
-momentum depend entirely on bubble direction and firing rhythm, requiring continuous adjustment and precision.
+Ein einzigartiges Bewegungsystem ausschließlich über Antriebskräfte entworfen, ohne traditionelles Springen oder 
+Klettern. Die Flugbahn und der Schwung der Garnele hängen vollständig von der Richtung der Blasen und dem 
+Abschussrhythmus ab, was kontinuierliche Anpassung und Präzision erfordert.
 
-### Obstacles and platforms 
+### Hindernisse und Plattformen
 
-Created interactive environments with static and dynamic hazards such as rotating saws and sea urchins. 
-Platforms provide rest points and navigation challenges, while obstacle timing and placement encourage mastery of the propulsion mechanic.
+Interaktive Umgebungen erstellt, die statische und dynamische Gefahren wie rotierende Sägen und Seeigel enthalten. 
+Plattformen dienen als Ruhepunkte und Navigationsherausforderungen, während das Timing und die Platzierung von 
+Hindernissen die Beherrschung des Antriebsmechanismus fördern.
 
 
-#### [Game jam site](https://globalgamejam.org/games/2025/tower-bubble-6)
+#### [Game jam Seite](https://globalgamejam.org/games/2025/tower-bubble-6)
 
 #### [Game download](https://drive.google.com/file/d/1lTzc3_H8TShk-jnb31SuebNrZYMyuhok/view?usp=sharing)
 

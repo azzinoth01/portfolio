@@ -13,8 +13,8 @@ fontColor: "#FFFFFF"
 # Thou Shalt Laugh!
 
 ### Engine: Unity Engine
-### Teamsize: 8
-### Timeframe: 48 Hours
+### Teamgröße: 5
+### Zeitrahmen: 48 Stunden
 
 
 {% include gallery.html 
@@ -22,26 +22,23 @@ fontColor: "#FFFFFF"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Turn based battle system 
+### Rundenbasiertes Kampfsystem
 
-Implemented a clear turn-based framework managing player and enemy turns, including input handling, action resolution, and 
-state transitions. The system ensures consistent pacing and smooth alternation between gameplay phases.
+Ein klar strukturiertes, rundenbasiertes Framework implementiert, das Spieler- und Gegnerzüge verwaltet 
+einschließlich Eingabeverarbeitung, Aktionsauflösung und Zustandsübergängen. Das System gewährleistet ein 
+konsistentes Spieltempo und einen flüssigen Wechsel zwischen den Gameplay-Phasen.
 
-### Card system 
+### Kartensystem
 
-Created a modular card system defining each card’s type, effect, and feedback behavior. Cards trigger distinct 
-visual and logical outcomes, allowing for straightforward extensibility and clean data-driven design.
+Ein modulares Kartensystem erstellt, das den Typ, die Wirkung und das Feedbackverhalten jeder Karte definiert. 
+Karten lösen unterschiedliche visuelle und logische Effekte aus, was eine unkomplizierte Erweiterbarkeit 
+und ein sauberes, datengetriebenes Design ermöglicht
 
-### Sequencing
 
-Built an event-driven sequencing system to coordinate card plays, animations, and enemy responses in the correct order. 
-This ensures that visual effects, sound, and logic resolve seamlessly, providing polished timing and clear player 
-feedback throughout the battle flow.
 
-#### [Itch.io page](https://nevermei.itch.io/thou-shalt-laugh)
-
+#### [Itch.io Seite](https://nevermei.itch.io/thou-shalt-laugh)
 
 #### [Game download](https://drive.google.com/file/d/14TV7vztsjc4HsfM4tCDDibwNB9NDQOiQ/view?usp=drive_link)
 

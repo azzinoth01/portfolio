@@ -20,8 +20,8 @@ fontColor: "#000000"
 ![Drink Hero]({{ '/assets/DrinkHero/Name.png' | relative_url }})
 
 ### Engine: Unity Engine
-### Teamsize: 7
-### Timeframe: 8 weeks
+### Teamgröße: 7
+### Zeitrahmen: 8 Wochen
 
 <div class="videoContainer">
 	<iframe 
@@ -46,50 +46,50 @@ fontColor: "#000000"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Server and database management
+### Server und Datenbank Verwaltung
 
-Deployed and configured a Linux-based server with a database backend to store and manage both game data and player data. 
-This architecture allowed game parameters to be updated server-side without requiring client updates, demonstrating 
-proficiency in backend infrastructure and live game operations.
+Einen Linux-basierten Server mit einer Datenbank-Backend-Struktur bereitgestellt und konfiguriert, um 
+Spieldaten als auch Informationen der Spieler zu speichern und zu verwalten. Diese Architektur ermöglichte es, 
+Spielparameter serverseitig zu aktualisieren, ohne dass Client-Updates erforderlich waren, und demonstriert 
+Kompetenz in Backend-Infrastruktur sowie Live-Spielbetrieb.
 
-### Server application
+### Serveranwendung
 
-Built a custom server-side application to handle client requests, interface with the database, and return the necessary 
-game data. This service layer ensured secure, reliable, and efficient communication between client and server, supporting 
-real-time gameplay requirements.
+Eine serverseitige Anwendung entwickelt, die Client-Anfragen verarbeitet, mit der Datenbank kommuniziert 
+und die benötigten Spieldaten zurückliefert. Diese Service-Schicht gewährleistete eine sichere, zuverlässige und effiziente 
+Kommunikation zwischen Client und Server und unterstützte die Anforderungen des Echtzeit-Gameplays.
 
-### Networking system
+### Netzwerksystem
 
-Designed and implemented a custom networking system to handle real-time communication between client and server. 
-Built a lightweight request and response model for transmitting game data, enabling reliable synchronization of player 
-actions and server-side logic. This demonstrates strong understanding of networking fundamentals, client-server 
-architecture, and efficient data exchange design.
+Ein Netzwerk-System entworfen und implementiert, um die Echtzeit-Kommunikation 
+zwischen Client und Server zu ermöglichen. Eine REST API für die Übertragung von Spieldaten entwickelt, 
+das eine zuverlässige Synchronisation von Spieleraktionen und serverseitiger Logik sicherstellt. Dies 
+demonstriert fundiertes Verständnis von Netzwerktechniken, Client-Server-Architektur und effizientem Datenaustausch-Design.
 
-### Combat system
+### Kampfsystem
 
-Developed a card-based combat system where actions are limited by mana and executed through player turns. Cards are 
-defined as lists of effects that trigger on play, enabling flexible design of abilities and mechanics. The system 
-supports sequential encounters, enemy spawns, and boss battles, providing a scalable gameplay loop.
+Ein kartenbasiertes Kampfsystem entwickelt, bei dem Aktionen durch Mana begrenzt sind und über Spielerzüge 
+ausgeführt werden. Karten sind als Listen von Effekten definiert, die beim Ausspielen ausgelöst werden, 
+was ein flexibles Design von Fähigkeiten und Mechaniken ermöglicht. Das System unterstützt aufeinanderfolgende 
+Begegnungen, Gegner-Spawns und Bosskämpfe und bietet eine skalierbaren Gameplay-Loop.
 
 ### Shader
 
-Developed custom shaders to enhance visual feedback and gameplay presentation. Implemented dynamic effects by 
-manipulating material properties with noise textures, alpha thresholds, and externally controlled parameters. 
-This demonstrates strong knowledge of shader programming, real-time rendering techniques, and the ability to 
-create reusable visual effect pipelines adaptable to different gameplay scenarios.
+Shader entwickelt, um visuelles Feedback und die Spielpräsentation zu verbessern. Dynamische 
+Effekte implementiert, indem Materialeigenschaften mithilfe von Noisetexturen, Alpha-Schwellenwerten 
+und extern gesteuerten Parametern manipuliert wurden.
 
-### Cross-Platform Development (PC & Mobile)
+### Cross-Platform Entwicklung (PC & Mobile)
 
-Optimized the project for deployment on both PC and Android platforms. Implemented input handling for keyboard, 
-mouse, and touch controls, while ensuring responsive UI layouts and smooth gameplay across different screen sizes 
-and hardware configurations. Applied performance profiling, memory management, and platform-specific optimizations to 
-maintain high-quality gameplay on all supported devices, demonstrating expertise in cross-platform development and 
-scalable system design.
+Das Projekt für den Einsatz auf PC- und Android-Plattformen optimiert. Die Eingabesteuerung für Tastatur, 
+Maus und Touch implementiert. Responsive UI-Layouts auf verschiedenen Bildschirmgrößen und Hardware-Konfigurationen angepasst. 
+Performance-Profiling, Speicherverwaltung und plattformspezifische Optimierungen angewendet, um auf allen unterstützten Geräten 
+ein hochwertiges Spielerlebnis zu gewährleisten.
 
 
-#### [Itch.io page](https://games-academy.itch.io/drink-hero)
+#### [Itch.io Seite](https://games-academy.itch.io/drink-hero)
 
 #### [Game download Windows](https://drive.google.com/file/d/1BMh9E1tRVwq1jK39ML10stXOIQqorUrF/view?usp=sharing)
 #### [Game download Android](https://drive.google.com/file/d/12G5rFJaouoSVe3aX47TLbhh5yhmCPvpp/view?usp=drive_link)

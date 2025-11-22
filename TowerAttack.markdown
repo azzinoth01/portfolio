@@ -16,8 +16,8 @@ fontColor: "#FFFFFF"
 ![Tower Attack]({{ '/assets/TowerAttack/Name.png' | relative_url }})
 
 ### Engine: Unity Engine
-### Teamsize: 3
-### Timeframe: 48 Hours
+### Teamgröße: 3
+### Zeitrahmen: 48 Stunden
 
 
 {% include gallery.html 
@@ -25,26 +25,28 @@ fontColor: "#FFFFFF"
     images=page.galleryImages %}
 
 
-## My work
+## Meine Arbeit
 
-### Unit pathing
+### Einheitenpfadfindung
 
-Implemented a pathfinding system that directs spawned units along predefined routes toward the throne. 
-Each unit follows the path autonomously while reacting to tower placement and attacks. The system ensures 
-smooth movement coordination and collision-free progression, even when multiple unit types are active simultaneously.
+Ein Pathfinding-System implementiert, das gespawnte Einheiten entlang vordefinierter Routen zum Thron führt. 
+Jede Einheit folgt dem Pfad und reagiert dabei auf Turmplatzierungen und Angriffe. Das System gewährleistet 
+eine reibungslose Bewegungskoordination und kollisionsfreie Fortbewegung, selbst wenn mehrere Einheitentypen gleichzeitig aktiv sind.
 
-### Tower types 
+### Turmtypen
 
-Designed two defensive tower archetypes — an Archer Tower for ranged attacks and a Laser Tower for continuous damage. 
-Towers automatically target nearby enemies, handle cooldowns, and respawn after destruction, maintaining gameplay flow 
-and consistent challenge.
+Zwei Verteidigungs-Turmarchtypen entworfen, einen Bogenschützenturm für Fernangriffe und einen Laserturm für 
+kontinuierlichen Schaden. Türme greifen automatisch nahe Gegner an, verwalten Abklingzeiten und erscheinen nach 
+ihrer Zerstörung erneut, wodurch der Spielfluss und eine gleichbleibende Herausforderung erhalten bleiben.
 
-### Unit types 
-Developed three unique unit classes with distinct behaviors and attributes: a Giant Skeleton (slow, high health, tank unit), 
-an Undead Archer (ranged, targets towers directly), and a Skeleton (fast, low health, swarm unit). Each unit type interacts 
-differently with tower defenses, adding tactical depth and requiring balanced design and tuning.
+### Einheitentypen
 
-#### [Itch.io page](https://masokuu-games.itch.io/tower-attack)
+Drei einzigartige Einheitentypen mit unterschiedlichen Verhaltensweisen und Attributen entwickelt: einen Riesenskelett 
+(langsam, hohe Lebenspunkte, Tank-Einheit), einen Untoten Bogenschützen (Fernkampf, greift gezielt Türme an) und ein 
+Skelett (schnell, geringe Lebenspunkte, Schwarm-Einheit). Jeder Einheitentyp interagiert auf unterschiedliche Weise mit 
+den Turmverteidigungen, was taktische Tiefe schafft.
+
+#### [Itch.io Seite](https://masokuu-games.itch.io/tower-attack)
 
 #### [Game download](https://drive.google.com/file/d/1ldz82xs4ol8YeDsqeW8N4BqDjvpK52bW/view?usp=sharing)
 
