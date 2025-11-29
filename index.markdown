@@ -2,19 +2,19 @@
 layout: default
 title: index
 background: /assets/Background.png
-overlay: dark
+overlay: light
 fontColor: "#FFFFFF"
 
 ---
 <section id="aboutMe" markdown="1">
-## About Me 
+## Über mich 
 Unity Entwickler mit zwei Jahren Berufserfahrung mit Schwerpunkt auf Gameplay Programmierung und 
 vier Jahren Berufserfahrung als Software Entwickler mit Schwerpunk auf Datenbanken und 
 Serververwaltung sucht neue Stelle als Unity Entwickler.
 
 **Github: [https://github.com/azzinoth01](https://github.com/azzinoth01)**
 
-**Contact: markusdullnig@hotmail.com**
+**Kontakt: markusdullnig@hotmail.com**
 
 </section>
 ---
